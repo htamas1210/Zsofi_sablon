@@ -2,4 +2,4 @@ elso utca,13,145,1
 masodik utca,6,78,0
 harmadik utca,34,234,3
 negyedik utca,36,60,2
-otodik utca,12,75,1
+otodik utca,12,75,0

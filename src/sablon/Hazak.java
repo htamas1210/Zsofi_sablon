@@ -29,7 +29,12 @@ public class Hazak {
         this.garazs = garazs;
     }
 
-    //nekem teszteles
+    //beépített fuggvenyeket a valtozo neve utan, ha tomb akkor a kereteszarojel utan .-al lehet elerni
+    //pl hazak.kiir() vagy hazak[0].kiir()
+
+    //egyszerű kiiratasa a valtozoknak hogy kesobb ne kelljen mindig megirni
+    //szoveget "" közé kell írni ha változot is ki akarunk iratni "" mögé + jelet kell irni
+    //majd a valtozo nevet
     public void kiir(){
         System.out.println("utcanev: " + utcanev + " hazszam: " + hazszam + " alapter: " + alapter + " garazs: " + garazs);
     }
